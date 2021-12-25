@@ -10,14 +10,7 @@ body {
     background-position: center top;
 }
 
-h2 {
-    color: rgb(250, 11, 31);
-}
 
-a {
-    color: rgb(246, 252, 252);
-    text-align: center;
-}
 
 h .b-page__content {
     min-height: 200px
